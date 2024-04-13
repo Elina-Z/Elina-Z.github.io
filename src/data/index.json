@@ -3,50 +3,48 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Quantitative Analysis & Financial Engineering",
+      "description": "Specialist in financial engineering with proven track record of optimizing trading strategies and financial models using advanced quantitative methods"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Machine Learning & Data Science",
+      "description": "Skilled in machine learning and data science, applying Python, R, and AI tools to develop predictive models and analytics solutions across various sectors"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Programming & Software Development",
+      "description": "Proficient software developer specializing in Python for financial technologies, focusing on algorithm development and high-frequency trading systems"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Statistical Modeling & Optimization",
+      "description": "Experienced in statistical modeling and optimization, leveraging deep knowledge in statistics and analytics to drive decision-making and improve operational efficiencies"
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/worldquant.jpg",
+      "title": "2023 WorldQuant IQC",
+      "description": "Won 1st place in the natinal finals of the International Quant Championship by quantitative analysis and alpha research"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/stock.jpg",
+      "title": "XAI for Stock Prediction",
+      "description": "Mainly focused on the return prediction of selected stocks and try to improve model accuracy. Then used XAI tools and techniques to analyze the reliability of the model and built explainability features to explain model predictions by visualization"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/emotion.png",
+      "title": "Emotion Detection",
+      "description": "Supported by the Royal Bank of Canada, developed an emotion detection model to aid in early diagnosis and analysis of mental health issues, utilizing a ResNet-18 deep learning framework on the FER2013 dataset"
     }
+    
   ],
   "testimonial": [
     {
