@@ -3,12 +3,15 @@ export default function ContactMe() {
     <section id="Contact" className="contact--section">
       <div>
         <p className="sub--title">Get In Touch</p>
-        <h2>Contact Me</h2>
+        <h2>Contact Information</h2>
         <p className="text-lg">
           
         </p>
       </div>
-      <form className="contact--form--container">
+      <div>elinazfw@gmail.com</div>
+      <div>(646)7071907</div>
+      <div>www.linkedin.com/in/elina-fuwei-zhuang</div>
+      {/* <form className="contact--form--container">
         <div className="container">
           <label htmlFor="first-name" className="contact--label">
             <span className="text-md">First Name</span>
@@ -76,7 +79,7 @@ export default function ContactMe() {
         <div>
           <button className="btn btn-primary contact--form--btn">Submit</button>
         </div>
-      </form>
+      </form> */}
     </section>
   );
 }
