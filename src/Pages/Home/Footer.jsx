@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/elina.zhuang.52?mibextid=LQQJ4d"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/elinazhuang?igsh=b3huN3NveGhlcGts&utm_source=qr"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -123,7 +123,7 @@ function Footer() {
                 </svg>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="https://www.twitter.com/"
                 className="navbar--content"
@@ -143,10 +143,10 @@ function Footer() {
                   />
                 </svg>
               </a>
-            </li>
+            </li> */}
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/elina-fuwei-zhuang"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -185,7 +185,7 @@ function Footer() {
                 to="Privacy_Policy"
                 className="text-sm"
               >
-                Privacy Policy
+                {/* Privacy Policy */}
               </Link>
             </li>
             <li>
@@ -198,7 +198,7 @@ function Footer() {
                 to="Terms_of_Service"
                 className="text-sm"
               >
-                Terms of Service
+                {/* Terms of Service */}
               </Link>
             </li>
             <li>
@@ -211,7 +211,7 @@ function Footer() {
                 to="Cookies_Settings"
                 className="text-sm"
               >
-                Cookies Settings
+                {/* Cookies Settings */}
               </Link>
             </li>
           </ul>
